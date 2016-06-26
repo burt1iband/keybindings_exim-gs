@@ -1,0 +1,7 @@
+## change log for keybindings_exim-gs: the package that brings keybindings.pl 2U
+0.1.0: 25/06/2016- Initial package coming together built around the perl script presumed to have been written by
+     Stephen Ostermiller
+
+
+Todo:
+     Make a simple GUI, probably using yad or zenity to choose between import and export modes, display help, etc...

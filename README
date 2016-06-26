@@ -1,0 +1,22 @@
+## README for keybindings_exim-gs
+ 
+* The keybindings_exim-gs package formalizes the installation of keybindings.pl,
+     a perl script to export/import gsettings schemas for keybindings used in graphical Linux environments.
+
+The actual perl code was probably written by
+Stephen Ostermiller, and
+thanks go to @elgalu for sharing the script on Github.
+
+The keybindin.pl script is run with -e or -i 
+to export or import respecively, gsettings for ones keybindings, whether vendor shipped or custom, to and from .csv files.
+
+I am very happy to be able to type one command and have all my keyboard shortcuts ready to use as opposed to havinig to spend a half an hour or more 
+recreating them with a graphical interface, and suspect others will as well.
+I sincerely hope others find this useful as I have, and will share any suggestions for improvements.
+
+This script also makes it easy to share ones configuration through out an organization or among friends, family or coworkers.
+ 
+As usual I use the GNU-PL3, but wil entertain requests for shipping a version with the WTF license. You'll need to make a good case for the latter of 
+course.
+
+B.H., 25/06/2016_20:59CDT_Mx
